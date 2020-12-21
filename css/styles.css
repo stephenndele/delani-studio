@@ -19,3 +19,6 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+.button-circle{
+    border-radius: 50%;
+}
