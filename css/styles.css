@@ -22,3 +22,122 @@
 .button-circle{
     border-radius: 50%;
 }
+
+#form_name{
+    background-color: transparent;
+    color: white !important;
+}
+#form_email{
+    background-color: transparent;
+    color: white;
+}
+#form_message{
+    background-color: transparent;
+    color: white;
+}
+
+
+
+.work1{
+    position: relative;
+}
+.work1a{
+    position: absolute;
+    padding-left: 60px;
+    bottom: 120px;
+    opacity: 5.1;
+    display: none;
+    color:white;
+    font-weight: 400;
+}
+
+.work2{
+    position: relative;
+}
+.work2a{
+    position: absolute;
+    padding-left: 60px;
+    bottom: 120px;
+    opacity: 5.1;
+    display: none;
+    color:white;
+    font-weight: 400;
+}
+
+.work3{
+    position: relative;
+}
+.work3a{
+    position: absolute;
+    padding-left: 60px;
+    bottom: 120px;
+    opacity: 5.1;
+    display: none;
+    color:white;
+    font-weight: 400;
+}
+
+.work4{
+    position: relative;
+}
+.work4a{
+    position: absolute;
+    padding-left: 60px;
+    bottom: 120px;
+    opacity: 5.1;
+    display: none;
+    color:white;
+    font-weight: 400;
+}
+
+.work5{
+    position: relative;
+}
+.work5a{
+    position: absolute;
+    padding-left: 60px;
+    bottom: 120px;
+    opacity: 5.1;
+    display: none;
+    color:white;
+    font-weight: 400;
+}
+
+.work6{
+    position: relative;
+}
+.work6a{
+    position: absolute;
+    padding-left: 60px;
+    bottom: 120px;
+    opacity: 5.1;
+    display: none;
+    color:white;
+    font-weight: 400;
+}
+
+.work7{
+    position: relative;
+}
+.work7a{
+    position: absolute;
+    padding-left: 60px;
+    bottom: 120px;
+    opacity: 5.1;
+    display: none;
+    color:white;
+    font-weight: 400;
+}
+
+.work8{
+    position: relative;
+}
+.work8a{
+    position: absolute;
+    padding-left: 60px;
+    bottom: 120px;
+    opacity: 5.1;
+    display: none;
+    color:white;
+    font-weight: 400;
+}
