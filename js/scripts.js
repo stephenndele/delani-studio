@@ -81,5 +81,26 @@ $(document).ready(function() {
     })
   })
 
+
+  $("form#contact-form").on("submit", function(event) {
+    event.preventDefault();
+    var name = $("input#form_name").val();
+    var enail= $("input#form_email").val();
+    var message = $("input#form_message").val();
+    var result = ("Hello " + name + " we received your message");
+
+    $("#output").text(result);
+
+    // if($("input#form_name").val() && $("input#form_email").val() && $("input#form_message").val() ){
+    //   alert("Hello" + name + "Thanks for reaching, we'll reach out to you soon! ");
+    // }
+    // else if ($("input#form_name").val() && $("input#form_email").val() ){
+    //   alert("Kindly leave a message");
+    // }
+
+  });
+
+
+
   });
 
