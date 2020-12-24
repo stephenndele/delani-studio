@@ -1,5 +1,5 @@
 # Delani Studio
-#### This is a  project to an imaginary studio.
+#### This is a  project for bulding an imaginary studio website.
 #### By Stephen Ndele
 ## Description
 The site allows the user to navigate throughout the site and see what Delani studio does and what they stand for. The site allows the user to send in messages and a reception message is issued on sending of the message.There are also images of some of the best photos th studio has taken and each has a description which disappears and appears as you hover on the images in the portfolio section.

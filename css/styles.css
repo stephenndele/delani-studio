@@ -11,7 +11,7 @@
 }
 
 .bg { 
-    background-image: url("/images/backgrounds/c_image.jpg");
+    background-image: url("../images/backgrounds/c_image.jpg");
   
     background-position: center;
     background-repeat: no-repeat;
