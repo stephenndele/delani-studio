@@ -41,103 +41,21 @@
 .work1{
     position: relative;
 }
-.work1a{
-    position: absolute;
-    padding-left: 60px;
-    bottom: 120px;
-    opacity: 5.1;
+.work1a,.work2a,.work3a,.work4a,.work5a,.work6a,.work7a,.work8a {
     display: none;
-    color:white;
-    font-weight: 400;
+    color: black;
+    background-color:rgba(255, 255, 255, 0.456);
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 40%;
+    font-family: 'Delius Swash Caps', cursive;
 }
 
-.work2{
-    position: relative;
-}
-.work2a{
-    position: absolute;
-    padding-left: 60px;
-    bottom: 120px;
-    opacity: 5.1;
-    display: none;
-    color:white;
-    font-weight: 400;
-}
 
-.work3{
-    position: relative;
-}
-.work3a{
-    position: absolute;
-    padding-left: 60px;
-    bottom: 120px;
-    opacity: 5.1;
-    display: none;
-    color:white;
-    font-weight: 400;
-}
 
-.work4{
-    position: relative;
-}
-.work4a{
-    position: absolute;
-    padding-left: 60px;
-    bottom: 120px;
-    opacity: 5.1;
-    display: none;
-    color:white;
-    font-weight: 400;
-}
-
-.work5{
-    position: relative;
-}
-.work5a{
-    position: absolute;
-    padding-left: 60px;
-    bottom: 120px;
-    opacity: 5.1;
-    display: none;
-    color:white;
-    font-weight: 400;
-}
-
-.work6{
-    position: relative;
-}
-.work6a{
-    position: absolute;
-    padding-left: 60px;
-    bottom: 120px;
-    opacity: 5.1;
-    display: none;
-    color:white;
-    font-weight: 400;
-}
-
-.work7{
-    position: relative;
-}
-.work7a{
-    position: absolute;
-    padding-left: 60px;
-    bottom: 120px;
-    opacity: 5.1;
-    display: none;
-    color:white;
-    font-weight: 400;
-}
-
-.work8{
-    position: relative;
-}
-.work8a{
-    position: absolute;
-    padding-left: 60px;
-    bottom: 120px;
-    opacity: 5.1;
-    display: none;
-    color:white;
-    font-weight: 400;
-}
