@@ -1,3 +1,7 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
 .card-hide { 
     display: none;
 }
@@ -36,23 +40,24 @@
 
 
 
-.work1{
+.work1,.work2,.work3,.work4,.work5,.work6,.work7,.work8{
     position: relative;
 }
 .work1a,.work2a,.work3a,.work4a,.work5a,.work6a,.work7a,.work8a {
     display: none;
-    color: black;
-    background-color:rgba(255, 255, 255, 0.456);
+    color: white;
+    background-color:rgba(105,105,105);
     position:absolute;
     top: 0px;
-    left: 0px;
-    right: 0px;
+    left: 14px;
+    right: 14px;
     bottom: 0px;
     font-weight: bold;
     text-align: center;
     font-size: 30px;
-    padding-top: 40%;
+    padding-top: 30%;
     font-family: 'Delius Swash Caps', cursive;
+    opacity: 0.8;
 }
 
 
