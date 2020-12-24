@@ -14,8 +14,8 @@ $subscribed = false;
 if (isset($_POST['newsletter'])) {
     // Set API credentials and build URL
     $data_center = 'DATA_CENTER_HERE';
-    $audience_id = '071aaa6894';
-    $api_key = '7eb0c1162f00b940e22cc40b6bea2739-us7';
+    $audience_id = '';
+    $api_key = '';
     $url = 'https://' . $data_center . '.api.mailchimp.com/3.0/lists/' . $audience_id . '/members';
 
 
