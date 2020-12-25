@@ -48,17 +48,21 @@
     color: white;
     background-color:rgba(105,105,105);
     position:absolute;
-    top: 0px;
-    left: 14px;
-    right: 14px;
-    bottom: 0px;
+    top: 20px;
+    left: 30px;
+    right: 30px;
+    bottom: 20px;
     font-weight: bold;
     text-align: center;
     font-size: 30px;
     padding-top: 30%;
     font-family: 'Delius Swash Caps', cursive;
     opacity: 0.8;
+    border: 2px solid #fff;
+
+
 }
+
 
 
 
