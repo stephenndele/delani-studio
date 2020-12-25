@@ -1,12 +1,12 @@
 $(document).ready(function() {
   $(".show").click(function() {
-    $(".card-hide").toggle();
+    $(".card-hide").toggle("slow");
   });
   $(".show1").click(function() {
-    $(".card-hide1").toggle();
+    $(".card-hide1").toggle("slow");
   });
   $(".show2").click(function() {
-    $(".card-hide2").toggle();
+    $(".card-hide2").toggle("slow");
   });
 
 
