@@ -1,12 +1,21 @@
 $(document).ready(function() {
   $(".show").click(function() {
-    $(".card-hide").toggle("slow");
+    $(".card-hide, .show").toggle("slow");
+  });
+  $(".card-hide").click(function() {
+    $(".show, .card-hide").toggle("slow");
   });
   $(".show1").click(function() {
-    $(".card-hide1").toggle("slow");
+    $(".card-hide1, .show1").toggle("slow");
+  });
+  $(".card-hide1").click(function() {
+    $(".show1, .card-hide1").toggle("slow");
   });
   $(".show2").click(function() {
-    $(".card-hide2").toggle("slow");
+    $(".card-hide2, .show2").toggle("slow");
+  });
+  $(".card-hide2").click(function() {
+    $(".show2, .card-hide2").toggle("slow");
   });
 
 
